@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Rank 1 Paladin Healer in World of Warcraft
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiDissem&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDissem)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDissem&layout=compact)]
