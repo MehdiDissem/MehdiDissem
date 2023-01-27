@@ -24,7 +24,6 @@ Here are some ideas to get you started:
    <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    rel="noreferrer"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
