@@ -124,8 +124,5 @@ Here are some ideas to get you started:
   </a>
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehdiDissem&show_icons=true&locale=en&layout=compact" alt="MehdiDissem" /></p>
-
-<p><img align="center" margin-bottom="20px" src="https://github-readme-stats.vercel.app/api?username=MehdiDissem&show_icons=true&locale=en" alt="MehdiDissem" /></p>
 
 <p><img align="center" margin-bottom="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiDissem&" alt="MehdiDissem" /></p>
