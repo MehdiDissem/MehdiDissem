@@ -33,6 +33,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
+  
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"
