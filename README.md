@@ -20,6 +20,28 @@ Here are some ideas to get you started:
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  
+   <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"
+      alt="typeScript"
+      width="40"
+      height="40"
+    />
+  </a>
+  
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
