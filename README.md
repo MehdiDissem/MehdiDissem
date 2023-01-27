@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: give documentation and get back to me after 3 minutes
 - ⚡ Fun fact: Rank 1 Paladin Healer in World of Warcraft
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiDissem&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiDissem&show_icons=true&theme=oneDark)
