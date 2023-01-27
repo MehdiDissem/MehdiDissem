@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiDissem&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDissem&layout=compact)
+  
+  <p><img align="center" margin-bottom="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiDissem&" alt="MehdiDissem" /></p>
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -125,4 +127,4 @@ Here are some ideas to get you started:
   </p>
 
 
-<p><img align="center" margin-bottom="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiDissem&" alt="MehdiDissem" /></p>
+
