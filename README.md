@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Rank 1 Paladin Healer in World of Warcraft
 - 📝 I write articles on [https://medium.com/@mehdissem](https://medium.com/@mehdissem)
   
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mehdi-dissem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souha-gaaloul" height="30" width="40" /></a>
+<a href="https://medium.com/@mehdissem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@souha.echelon20" height="30" width="40" /></a>
+</p>
+  
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MehdiDissem" alt="MehdiDissem" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiDissem&show_icons=true&theme=onedark)
