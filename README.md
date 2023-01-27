@@ -125,10 +125,10 @@ Here are some ideas to get you started:
     />
   </a>
   
-    <a href="https://babeljs.io/" target="_blank" rel="babel">
+  <a href="https://babeljs.io/" target="_blank" rel="babel">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
+      alt="tailwind"
       width="40"
       height="40"
     />
