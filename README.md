@@ -209,6 +209,13 @@ Here are some ideas to get you started:
       width="40"
       height="40"
     />
+  </a> <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://socket.io/images/logo-dark.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
   </a>
   
   </p>
