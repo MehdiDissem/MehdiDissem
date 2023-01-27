@@ -216,6 +216,13 @@ Here are some ideas to get you started:
       width="40"
       height="40"
     />
+  </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://prismalens.vercel.app/header/logo-white.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
   </a>
   
   </p>
