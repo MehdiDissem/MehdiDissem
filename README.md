@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Rank 1 Paladin Healer in World of Warcraft
 - 📝 I write articles on [https://medium.com/@mehdissem](https://medium.com/@mehdissem)
   
-  https://www.codewars.com/users/MehdiDissem/badges/large
+  
+  <h3>My Codewars Badge :
+  ![image](https://www.codewars.com/users/MehdiDissem/badges/large)
 
   
   <h3 align="left">Connect with me:</h3>
