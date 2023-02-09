@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Mehdi Dissem </h1>
 <h3 align="center">SEO consultant and Full-Stack developer from Tunisia<h3>
-  
-<img align="center" src="https://i.ibb.co/ZhMX6Sz/Mehdi-Dissem-cartoon.png" alt="Mehdi-Dissem-cartoon" border="0">
-
+  <div align="center">
+<img  src="https://i.ibb.co/ZhMX6Sz/Mehdi-Dissem-cartoon.png" alt="Mehdi-Dissem-cartoon" border="0">
+  </div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some amazing things !
