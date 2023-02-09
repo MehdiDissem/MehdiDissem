@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mehdi Dissem </h1>
 <h3 align="center">SEO consultant and Full-Stack developer from Tunisia<h3>
   <div align="center">
-<img src="https://i.ibb.co/LdWQNsm/Photo-mahdi.png" alt="Photo-mahdi" border="0" size="50%">
+<img src="https://i.ibb.co/LdWQNsm/Photo-mahdi.png" alt="Photo-mahdi" border="0" width=50px height=50px>
   </div>
 Here are some ideas to get you started:
 
