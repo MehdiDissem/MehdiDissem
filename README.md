@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any mobile app project
 - 💬 Ask me about everything related to code
 - 📫 How to reach me: **mehdissem@gmail.com**
-- ⚡ Fun fact: Rank 1 Paladin Healer in World of Warcraft
+<!-- - ⚡ Fun fact: Rank 1 Paladin Healer in World of Warcraft -->
 - 📝 I write articles on [https://medium.com/@mehdissem](https://medium.com/@mehdissem)
   
 
