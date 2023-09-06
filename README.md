@@ -3,7 +3,7 @@
 <img align="right" src="https://i.ibb.co/LdWQNsm/Photo-mahdi.png" alt="Photo-mahdi" width=250px height=250px><br /><br />
   
 # 💫 About Me:
-🔭 I’m currently working on some amazing things !<br>🌱 I’m currently learning AWS re/Start<br>👯 I’m looking to collaborate on any mobile app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: mehdissem@gmail.com<br>📝 I write articles on https://medium.com/@mehdissem
+🔭 I’m currently working as a product manager in a cybersecurity company<br>🌱 I’m currently learning Swift<br>👯 I’m looking to collaborate on any app project<br>💬 Ask me about everything related to code<br>📫 How to reach me: mehdissem@gmail.com<br>📝 I write articles on https://medium.com/@mehdissem
 
 
 ## 🌐 Socials:
