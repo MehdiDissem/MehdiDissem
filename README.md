@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mehdi Dissem </h1>
-<h3 align="center">SEO consultant and Full-Stack developer from Tunisia<h3>
+<h3 align="center">Product Manager, SEO consultant and Full-Stack developer based in Dubai<h3>
 <img align="right" src="https://i.ibb.co/LdWQNsm/Photo-mahdi.png" alt="Photo-mahdi" width=250px height=250px><br /><br />
   
 # 💫 About Me:
